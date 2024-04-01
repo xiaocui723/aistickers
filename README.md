@@ -1,2 +1,2 @@
-# aistickers
-ticker AI enerate Site
+# AiStickers
+Sticker AI enerate Site
